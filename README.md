@@ -12,6 +12,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Frog](https://github.com/richardvecsey/svgfun/blob/master/samples/frog.png "Frog")
 ![Mouse](https://github.com/richardvecsey/svgfun/blob/master/samples/mouse.png "Mouse")
 ![Panda](https://github.com/richardvecsey/svgfun/blob/master/samples/panda.png "Panda")
+![Rooster](https://github.com/richardvecsey/svgfun/blob/master/samples/rooster.png "Rooster")
 ![Seal](https://github.com/richardvecsey/svgfun/blob/master/samples/seal.png "Seal")
 ![Shark](https://github.com/richardvecsey/svgfun/blob/master/samples/shark.png "Shark")
 ![Turtle](https://github.com/richardvecsey/svgfun/blob/master/samples/turtle.png "Turtle")
