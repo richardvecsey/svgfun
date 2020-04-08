@@ -1,7 +1,10 @@
 # svgfun
 This is a freetime project where I make simple, funny or just silly svg graphics.
 
-# Samples:
+# Samples
+
+## Animals
+
 ![Bat](https://github.com/richardvecsey/svgfun/blob/master/samples/bat.png "Bat")
 ![Bunny](https://github.com/richardvecsey/svgfun/blob/master/samples/bunny.png "Bunny")
 ![Butterfly](https://github.com/richardvecsey/svgfun/blob/master/samples/butterfly.png "Butterfly")
@@ -18,3 +21,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Seal](https://github.com/richardvecsey/svgfun/blob/master/samples/seal.png "Seal")
 ![Shark](https://github.com/richardvecsey/svgfun/blob/master/samples/shark.png "Shark")
 ![Turtle](https://github.com/richardvecsey/svgfun/blob/master/samples/turtle.png "Turtle")
+
+## Plants
+![Cactus](https://github.com/richardvecsey/svgfun/blob/master/samples/cactus.png "Cactus")
+![Flower](https://github.com/richardvecsey/svgfun/blob/master/samples/flower.png "Flower")
