@@ -23,6 +23,13 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Shark](https://github.com/richardvecsey/svgfun/blob/master/samples/shark.png "Shark")
 ![Turtle](https://github.com/richardvecsey/svgfun/blob/master/samples/turtle.png "Turtle")
 
+## Characters
+![Ghost](https://github.com/richardvecsey/svgfun/blob/master/samples/ghost.png "Ghost")
+
+
+## Planets
+![Sun](https://github.com/richardvecsey/svgfun/blob/master/samples/sun.png "Sun")
+
 ## Plants
 ![Cactus](https://github.com/richardvecsey/svgfun/blob/master/samples/cactus.png "Cactus")
 ![Flower](https://github.com/richardvecsey/svgfun/blob/master/samples/flower.png "Flower")
