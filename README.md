@@ -21,6 +21,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Rooster](https://github.com/richardvecsey/svgfun/blob/master/samples/rooster.png "Rooster")
 ![Seal](https://github.com/richardvecsey/svgfun/blob/master/samples/seal.png "Seal")
 ![Shark](https://github.com/richardvecsey/svgfun/blob/master/samples/shark.png "Shark")
+![Snake](https://github.com/richardvecsey/svgfun/blob/master/samples/snake.png "Snake")
 ![Turtle](https://github.com/richardvecsey/svgfun/blob/master/samples/turtle.png "Turtle")
 
 ## Characters
