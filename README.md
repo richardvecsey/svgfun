@@ -8,6 +8,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Bunny](https://github.com/richardvecsey/svgfun/blob/master/samples/bunny.png "Bunny")
 ![Butterfly](https://github.com/richardvecsey/svgfun/blob/master/samples/butterfly.png "Butterfly")
 ![Cat](https://github.com/richardvecsey/svgfun/blob/master/samples/cat.png "Cat")
+![Cat_02](https://github.com/richardvecsey/svgfun/blob/master/samples/cat_02.png "Cat_02")
 ![Chicken](https://github.com/richardvecsey/svgfun/blob/master/samples/chicken.png "Chicken")
 ![Cow](https://github.com/richardvecsey/svgfun/blob/master/samples/cow.png "Cow")
 ![Dog](https://github.com/richardvecsey/svgfun/blob/master/samples/dog.png "Dog")
@@ -34,6 +35,10 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ## Plants
 ![Cactus](https://github.com/richardvecsey/svgfun/blob/master/samples/cactus.png "Cactus")
 ![Flower](https://github.com/richardvecsey/svgfun/blob/master/samples/flower.png "Flower")
+![Tree](https://github.com/richardvecsey/svgfun/blob/master/samples/tree.png "Tree")
+![Tree_02](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_02.png "Tree_02")
+![Tree_03](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_03.png "Tree_03")
 
 ## Landscapes
 ![Landscape_01](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_01.png "Landscape_01")
+![Landscape_02](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_02.png "Landscape_02")
