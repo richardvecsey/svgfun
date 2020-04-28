@@ -31,6 +31,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 
 ## Planets
 ![Earth](https://github.com/richardvecsey/svgfun/blob/master/samples/earth.png "Earth")
+![Moon](https://github.com/richardvecsey/svgfun/blob/master/samples/moon.png "Moon")
 ![Sun](https://github.com/richardvecsey/svgfun/blob/master/samples/sun.png "Sun")
 ![Sun_02](https://github.com/richardvecsey/svgfun/blob/master/samples/sun_02.png "Sun_02")
 
