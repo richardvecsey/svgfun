@@ -27,11 +27,12 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 
 ## Characters
 ![Ghost](https://github.com/richardvecsey/svgfun/blob/master/samples/ghost.png "Ghost")
-
+![Virus](https://github.com/richardvecsey/svgfun/blob/master/samples/virus.png "Virus")
 
 ## Planets
 ![Earth](https://github.com/richardvecsey/svgfun/blob/master/samples/earth.png "Earth")
 ![Moon](https://github.com/richardvecsey/svgfun/blob/master/samples/moon.png "Moon")
+![Star](https://github.com/richardvecsey/svgfun/blob/master/samples/star.png "Star")
 ![Sun](https://github.com/richardvecsey/svgfun/blob/master/samples/sun.png "Sun")
 ![Sun_02](https://github.com/richardvecsey/svgfun/blob/master/samples/sun_02.png "Sun_02")
 
@@ -45,3 +46,4 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ## Landscapes
 ![Landscape_01](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_01.png "Landscape_01")
 ![Landscape_02](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_02.png "Landscape_02")
+![Landscape_02_3d_anaglyph](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_02_3d_anaglyph.png "Landscape_02_3d_anaglyph")
