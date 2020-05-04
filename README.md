@@ -43,6 +43,9 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Tree_02](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_02.png "Tree_02")
 ![Tree_03](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_03.png "Tree_03")
 
+## Things
+![Pencil](https://github.com/richardvecsey/svgfun/blob/master/samples/pencil.png "Pencil")
+
 ## Landscapes
 ![Landscape_01](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_01.png "Landscape_01")
 ![Landscape_02](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_02.png "Landscape_02")
