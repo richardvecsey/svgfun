@@ -1,5 +1,5 @@
 # svgfun
-This is a freetime project where I make simple, funny or just silly svg graphics. However, these images are mroe than some randomly choosen files. Svg represents the way of creator's thinking. You can check, how I see and solve different problems.
+This is a freetime project where I make simple, funny or just silly svg graphics. However, these images are more than some randomly choosen files. Svg represents the way of creator's thinking. You can check, how I see and solve different problems.
 
 # Samples
 
@@ -39,6 +39,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 
 ## Plants
 ![Cactus](https://github.com/richardvecsey/svgfun/blob/master/samples/cactus.png "Cactus")
+![Carrot](https://github.com/richardvecsey/svgfun/blob/master/samples/carrot.png "Carrot")
 ![Flower](https://github.com/richardvecsey/svgfun/blob/master/samples/flower.png "Flower")
 ![Tree](https://github.com/richardvecsey/svgfun/blob/master/samples/tree.png "Tree")
 ![Tree_02](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_02.png "Tree_02")
