@@ -41,6 +41,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Cactus](https://github.com/richardvecsey/svgfun/blob/master/samples/cactus.png "Cactus")
 ![Carrot](https://github.com/richardvecsey/svgfun/blob/master/samples/carrot.png "Carrot")
 ![Flower](https://github.com/richardvecsey/svgfun/blob/master/samples/flower.png "Flower")
+![Kiwifruit](https://github.com/richardvecsey/svgfun/blob/master/samples/kiwifruit.png "Kiwifruit")
 ![Tree](https://github.com/richardvecsey/svgfun/blob/master/samples/tree.png "Tree")
 ![Tree_02](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_02.png "Tree_02")
 ![Tree_03](https://github.com/richardvecsey/svgfun/blob/master/samples/tree_03.png "Tree_03")
