@@ -37,6 +37,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Star](https://github.com/richardvecsey/svgfun/blob/master/samples/star.png "Star")
 ![Sun](https://github.com/richardvecsey/svgfun/blob/master/samples/sun.png "Sun")
 ![Sun_02](https://github.com/richardvecsey/svgfun/blob/master/samples/sun_02.png "Sun_02")
+![Sun_03](https://github.com/richardvecsey/svgfun/blob/master/samples/sun_03.png "Sun_03")
 
 ## Plants
 ![Cactus](https://github.com/richardvecsey/svgfun/blob/master/samples/cactus.png "Cactus")
