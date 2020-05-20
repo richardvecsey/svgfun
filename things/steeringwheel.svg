@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="183.2444mm"
+   height="183.2444mm"
+   viewBox="0 0 183.24439 183.24441"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="steeringwheel.svg"
+   inkscape:export-filename="E:\munka\my_svg_drawings\steeringwheel.png"
+   inkscape:export-xdpi="8.871212"
+   inkscape:export-ydpi="8.871212">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-441.126"
+     inkscape:cy="177.13167"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.605944,-60.55395)">
+    <g
+       id="g865">
+      <circle
+         r="85.007614"
+         cy="152.17615"
+         cx="105.22814"
+         id="path829"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:13.22916698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path851"
+         d="m 20.453474,147.51621 a 85.007617,85.007617 0 0 0 -0.232883,4.65984 85.007617,85.007617 0 0 0 0.09008,1.79846 42.102072,35.192189 0 0 1 1.034788,-0.0308 42.102072,35.192189 0 0 1 42.102008,35.192 42.102072,35.192189 0 0 1 -14.556889,26.55823 85.007617,85.007617 0 0 0 5.14318,4.13344 63.153103,44.030407 0 0 1 51.194512,-18.31772 63.153103,44.030407 0 0 1 51.17298,18.32123 85.007617,85.007617 0 0 0 5.16647,-4.10575 42.102072,35.192189 0 0 1 -14.55864,-26.58943 42.102072,35.192189 0 0 1 42.10201,-35.192 42.102072,35.192189 0 0 1 1.06071,0.0444 85.007617,85.007617 0 0 0 0.0642,-1.81208 85.007617,85.007617 0 0 0 -0.16522,-4.65984 z"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.22916603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="14.141152"
+         rx="28.282305"
+         cy="167.28146"
+         cx="105.22826"
+         id="path857"
+         style="opacity:1;vector-effect:none;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.22916603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         style="opacity:1;vector-effect:none;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.22916603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse859"
+         cx="105.22826"
+         cy="167.28146"
+         rx="21.854507"
+         ry="10.927253" />
+    </g>
+  </g>
+</svg>
