@@ -53,6 +53,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Atom](https://github.com/richardvecsey/svgfun/blob/master/samples/atom.png "Atom")
 ![Cupcake](https://github.com/richardvecsey/svgfun/blob/master/samples/cupcake.png "Cupcake")
 ![Pencil](https://github.com/richardvecsey/svgfun/blob/master/samples/pencil.png "Pencil")
+![Steeringwheel](https://github.com/richardvecsey/svgfun/blob/master/samples/steeringwheel.png "Steeringwheel")
 
 ## Landscapes
 ![Landscape_01](https://github.com/richardvecsey/svgfun/blob/master/samples/landscape_01.png "Landscape_01")
