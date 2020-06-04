@@ -7,6 +7,7 @@ This is a freetime project where I make simple, funny or just silly svg graphics
 ![Ant](https://github.com/richardvecsey/svgfun/blob/master/samples/ant.png "Ant")
 ![Bat](https://github.com/richardvecsey/svgfun/blob/master/samples/bat.png "Bat")
 ![Bee](https://github.com/richardvecsey/svgfun/blob/master/samples/bee.png "Bee")
+![Bird](https://github.com/richardvecsey/svgfun/blob/master/samples/bird.png "Bird")
 ![Bunny](https://github.com/richardvecsey/svgfun/blob/master/samples/bunny.png "Bunny")
 ![Butterfly](https://github.com/richardvecsey/svgfun/blob/master/samples/butterfly.png "Butterfly")
 ![Cat](https://github.com/richardvecsey/svgfun/blob/master/samples/cat.png "Cat")
